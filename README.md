@@ -5,7 +5,7 @@
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
 
 Hello! I am a third-year Computer Science student. During high school, I majored in math and English and now have knowledge of programming languages
-such as C++, C#, Java, and SQL databases. When I am not studying, I enjoy discovering new things and expanding my knowledge. I am strongly motivated and ambitious
+such as C++, C#, Java, and SQL databases. When I am not studying, I enjoy discovering new things and expanding my knowledge. I am strongly motivated 
 to achieve all of my goals. You can check out some of my projects and follow my journey as a young Software Engineer. 👨🏻‍🎓
 
 I hope you are having a nice day!
