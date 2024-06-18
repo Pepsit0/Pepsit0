@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://github.com/Pepsit0/Pepsit0/assets/141325650/e98989d5-846b-4132-8ff3-ae19d11b751d" alt="MasterHead">
+</div>
+
 ### Welcome To My Profile 👋
 <h1 align="left">👨🏻‍💻 pepsit0</h1>
 
@@ -7,7 +11,8 @@
 
 ###
 
-<img align="left" height="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"  />
+<img align="left" height="300" src="https://github.com/Pepsit0/Pepsit0/assets/141325650/34a64d3f-ffa1-429c-b8d4-412d8e8c7e56"  />
+
 
 ###
 
