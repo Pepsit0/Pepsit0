@@ -7,7 +7,7 @@
 
 ###
 
-<h3 align="left">I am a third-year Computer Science student. During high school, I majored in math and English and now have knowledge of programming languages such as C#, JavaScript, HTML, CSS, BOOTSTRAP, and SQL databases. When I am not studying, I enjoy discovering new things expanding my knowledge, and also trying new things. I am strongly motivated to achieve all of my goals. You can check out some of my projects and follow my journey as a young Software Engineer. 👨🏻‍🎓<br><br>I hope you are having a nice day!<br><br>Thank you for visiting! 😇</h3>
+<h3 align="left">I am final-year Computer Science student. During high school, I majored in math and English and now have knowledge of programming languages such as C#, JavaScript, HTML, CSS, BOOTSTRAP, and SQL databases. When I am not studying, I enjoy discovering new things expanding my knowledge, and also trying new things. I am strongly motivated to achieve all of my goals. You can check out some of my projects and follow my journey as a young Software Engineer. 👨🏻‍🎓<br><br>I hope you are having a nice day!<br><br>Thank you for visiting! 😇</h3>
 
 ###
 
